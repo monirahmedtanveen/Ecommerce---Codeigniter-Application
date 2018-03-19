@@ -1,0 +1,1 @@
+<h2>Your New Password is Updated successfully. You may Login now with Your New Password.</h2>

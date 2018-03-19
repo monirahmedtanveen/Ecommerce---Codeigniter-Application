@@ -1,0 +1,1 @@
+<h2>Password Recovery Link was Sent to Your Email. Please Check Your Email and Reset Password</h2>
